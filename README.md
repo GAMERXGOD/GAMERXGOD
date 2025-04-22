@@ -5,7 +5,7 @@
 - 🚧 Currently working on personal projects to build my portfolio<br>
 - 📚 Learning daily and always experimenting with new ideas
 - # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with codes<br>🌱 I’m currently learning java-script<br>💬 Ask me about<br>⚡ Fun fact-learning 
 
 
 ## 🌐 Socials:
